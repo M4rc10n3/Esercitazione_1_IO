@@ -1,0 +1,3 @@
+/home/appuser/Data/Esercitazione_1_IO/Exercise0/Debug/CMakeFiles/VoidExample.dir
+/home/appuser/Data/Esercitazione_1_IO/Exercise0/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercitazione_1_IO/Exercise0/Debug/CMakeFiles/rebuild_cache.dir
